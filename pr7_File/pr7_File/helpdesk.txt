@@ -1,0 +1,10 @@
+1;Ivan Ivanov;Internet;Wi-Fi isn't working in the office;High;Open
+2;Anna;Printer;Paper jam;Medium;In progress
+3;Petr;Password;Forgot email password;Low;Closed
+4;John Smith;Hardware;Laptop screen is flickering;High;Open
+5;Elena Petrova;Software;1C accounting app won't launch;High;In progress
+6;Alex;Access;Cannot login to the corporate VPN;Medium;Open
+7;Dmitry;Email;Not receiving emails from external clients;Low;Open
+8;Maria;Hardware;Keyboard is missing some keys;Low;Closed
+9;John Smith;Internet;Slow connection speed in meeting room 3;Medium;In progress
+10;Sergey;Software;Excel crashes on opening heavy files;Low;Open
